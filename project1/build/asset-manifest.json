@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72b55bbe.css",
+    "main.js": "/static/js/main.cb0e2ec5.js",
+    "static/js/787.142da1d4.chunk.js": "/static/js/787.142da1d4.chunk.js",
+    "static/media/rajasthani.jpg": "/static/media/rajasthani.ae32883353b0f39a3804.jpg",
+    "static/media/logo.png": "/static/media/logo.019682feddc6460646b2.png",
+    "static/media/masala.jpg": "/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/fooda.jpeg": "/static/media/fooda.875b8ccf56acb74c6e73.jpeg",
+    "static/media/food.jpeg": "/static/media/food.05892fe97cce26a5d9e5.jpeg",
+    "static/media/chhola.jpg": "/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/paneer.jpg": "/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/index.html",
+    "main.72b55bbe.css.map": "/static/css/main.72b55bbe.css.map",
+    "main.cb0e2ec5.js.map": "/static/js/main.cb0e2ec5.js.map",
+    "787.142da1d4.chunk.js.map": "/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72b55bbe.css",
+    "static/js/main.cb0e2ec5.js"
+  ]
+}
